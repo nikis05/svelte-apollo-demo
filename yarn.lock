@@ -2199,9 +2199,9 @@ supports-color@^6.1.0:
   dependencies:
     has-flag "^3.0.0"
 
-svelte@^3.0.0:
-  version "3.16.1"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.16.1.tgz#bc81664abe93118d6a2ca3adc1cb0f502ab72678"
+svelte@^3.49.0:
+  version "3.49.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.49.0.tgz#5baee3c672306de1070c3b7888fc2204e36a4029"
 
 symbol-observable@^1.0.2, symbol-observable@^1.0.4:
   version "1.2.0"
